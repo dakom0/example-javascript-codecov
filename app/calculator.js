@@ -7,5 +7,4 @@ const divide = (x, y) => {
   }
   return x * 1.0 / y;
 }
-
 module.exports = { add, subtract, multiply, divide };
